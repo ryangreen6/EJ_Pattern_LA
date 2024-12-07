@@ -24,3 +24,7 @@ Mapping Inequality Project: https://dsl.richmond.edu/panorama/redlining
 This project was a part of my learning process in the Bren School's MEDS program at UCSB. I'd like to recognize any and all professors and teacher's assistants who guided me along the way. 
 
 MEDS Program, UCSB: https://bren.ucsb.edu/masters-programs/master-environmental-data-science
+
+## References
+
+Ellis-Soto, D., Chapman, M., & Locke, D. H. (2023). Historical redlining is associated with increasing geographical disparities in bird biodiversity sampling in the United States. Nature Human Behaviour, 1-9.
