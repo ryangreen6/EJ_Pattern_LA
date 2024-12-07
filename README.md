@@ -14,5 +14,6 @@ README.md
 The data for this project is not housed in this repository. Here are the three datasets used:
 - EJScreen - This is a national dataset available from the US EPA at the tract level, containing a wealth of data such as demographic information, air quality measurements, and cancer risk, as well as spatial data for each tract. The data can be downloaded as a geodatabase here: https://www.epa.gov/ejscreen/download-ejscreen-data
 - HOLC Redlined Districts - This is a geopackage available from the Mapping Inequality Project, containing data on the redlined districts in Los Angeles and their HOLC grades. The data can be downloaded here: https://dsl.richmond.edu/panorama/redlining/data
-  Mapping Inequality Project: https://dsl.richmond.edu/panorama/redlining
+
+   Mapping Inequality Project: https://dsl.richmond.edu/panorama/redlining
 - 
