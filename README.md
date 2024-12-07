@@ -5,10 +5,10 @@ During the 1930s, the Home Owners’ Loan Corporation (HOLC) rated neighborhoods
 The purpose of this repository is to compare these redlined districts with a dataset of biodiversity observations across Los Angeles County. 
 
 ## Within this repository:
-EJ_Pattern_LA.qmd
-EJ_Pattern_LA.rproj
-README.md
-.gitignore
+- EJ_Pattern_LA.qmd
+- EJ_Pattern_LA.rproj
+- README.md
+- .gitignore
 
 ## Data
 The data for this project is not housed in this repository. Here are the three datasets used:
