@@ -10,6 +10,10 @@ The purpose of this repository is to compare these redlined districts with a dat
 - README.md
 - .gitignore
 
+## Techniques
+
+This repository mainly involves map making using the package `tmap`, and manipulation of dataframes. It also includes the basic use of `if-else` statements, and the creation of tables using the package `kableExtra`. 
+
 ## Data
 The data for this project is not housed in this repository. Here are the three datasets used:
 - EJScreen - This is a national dataset available from the US EPA at the tract level, containing a wealth of data such as demographic information, air quality measurements, and cancer risk, as well as spatial data for each tract. The data can be downloaded as a geodatabase here: https://www.epa.gov/ejscreen/download-ejscreen-data
