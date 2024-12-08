@@ -7,6 +7,7 @@ The purpose of this repository is to compare these redlined districts with a dat
 ## Within this repository:
 - EJ_Pattern_LA.qmd
 - EJ_Pattern_LA.rproj
+- EJ_Pattern_LA.html
 - README.md
 - .gitignore
 
