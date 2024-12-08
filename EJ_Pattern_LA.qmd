@@ -1,6 +1,5 @@
 ---
-title: "Homework Assignment #2"
-subtitle: "Exploring patterns of environmental justice"
+title: "Exploring Patterns of Environmental Justice and Biodiversity in Los Angeles County"
 author: "Ryan Green"
 date: 10/19/2024
 execute: 
@@ -270,15 +269,7 @@ The results show that in 2022, both grades C and D have a higher percentage of b
 
 Soto et al. 2023 found that districts with lower rankings have lower numbers of bird observations not because of lower inherent biodiversity, but by a disparity of data about observations in those districts. However our dataset shows otherwise, as grade C has by far the most observations of any grade (47,973 observations). While this is inconsistent with the findings of Soto et al., it is also important to note that our biodiversity dataset may be skewed for the same reason: greater numbers of observations does not necessarily mean greater biodiversity. 
 
-
-----
-
-----
-
-----
-
-
-Below, I created another figure and a map of bird observations, just for fun. This is not part of the homework but I thought I would include it. 
+__
 
 
 Creating another table of all the biodiversity data (2021-2023)
